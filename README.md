@@ -1,6 +1,6 @@
 # Portifólio
 
- Esse foi o primeiro projeto meu feito com HTML e CSS, futuramente eu pretendo aperfeioçoar ele,
+ Esse foi meu primeiro projeto feito com HTML e CSS, futuramente eu pretendo aperfeioçoar ele,
  para que ele se torne de fato meu portifólio de apresentação.
 
  ## Funcionalidades
