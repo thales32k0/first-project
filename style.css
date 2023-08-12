@@ -27,10 +27,11 @@ body{
 
 .cabecalho__menu {
     display: flex ;
-    gap: 80px;
+    gap: 40px;
 }
 
 .cabecalho__menu__link {
+    margin-left: 70px;
     font-family: var(--fonte-secundaria);
     font-size: 20;
     font-weight: 600;
@@ -55,10 +56,11 @@ body{
 }
 
 .apresentacao__conteudo {
-    width: 50%;
+    width: 40%;
+    font-size: 25px;
     display: flex;
     flex-direction: column;
-    gap: 30px;
+    gap: 20px;
 }
 
 .apresentacao__conteudo__titulo {
@@ -106,9 +108,27 @@ body{
     background-color: var(--cor-hover);
 }
 
-.apresentacao__imagem {
+.container {
+    display: flex;
     width: 50%;
 }
+
+.apresentacao__projetos {
+    font-size: 40px;
+    padding-bottom: 10%;
+    padding-left: 0%;
+}
+
+.titulo_calculadora {
+    padding-bottom: 0%;
+}
+
+.calculadora {
+    padding-bottom: 50%;
+    padding-left: 10%;
+    width: 70%;
+}
+
 
 .rodape {
     padding: 24px;
@@ -120,6 +140,7 @@ body{
 
 }
 
+
 @media (max-width: 900px) {
     .cabecalho {
         padding: 10%;
@@ -127,6 +148,7 @@ body{
 
     .cabecalho__menu {
         justify-content: center;
+        padding-right: 25%;
     }
 
     .apresentacao {
@@ -137,4 +159,12 @@ body{
     .apresentacao__conteudo {
         width: auto;
     }
+
+    .container {
+        width: auto;
+        
+    }
 }
+
+
+
