@@ -1,5 +1,6 @@
 # 📖 Portifólio // Portifolio
-
+<p align-text: center<p>
+## 🚧Under Development🚧 
 
 This was my first project made with HTML and CSS, in the future I intend to improve it,
   so that it actually becomes my presentation portfolio.
@@ -12,5 +13,5 @@ This was my first project made with HTML and CSS, in the future I intend to impr
 
 `Functionalities 1` : Introduce myself, show some facts about me and my social media // Me apresentar, mostrar alguns fatos sobre mim e minhas redes sociais. 
 
-
-                      Feito por Thales // Made by Thales
+# Developer
+ [<img loading="lazy" src="https://avatars.githubusercontent.com/u/89024257?v=4" width=115><br><sub>Thales Eduardo Pedro</sub>](https://github.com/thales32k0)
