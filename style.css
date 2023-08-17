@@ -31,10 +31,6 @@ body{
 }
 
 .cabecalho__menu__link {
-    transform: scale(0.9);
-    transition: transform 0.3s ease;
-    max-width: 100%;
-    height: auto;
     margin-left: 70px;
     font-family: var(--fonte-secundaria);
     font-size: 20;
