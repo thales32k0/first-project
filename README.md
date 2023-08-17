@@ -1,6 +1,7 @@
 # 📖 Portifólio // Portifolio
 <p align-text: center<p>
-## 🚧Under Development🚧 
+## 🚧Under Development🚧
+</p>  
 
 This was my first project made with HTML and CSS, in the future I intend to improve it,
   so that it actually becomes my presentation portfolio.
