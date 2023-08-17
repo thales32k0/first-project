@@ -37,7 +37,6 @@ body{
     font-weight: 600;
     color: var(--cor-terciaria);
     text-decoration: none;
-    transform: scale(1.05);
 }
 
 .apresentacao {
@@ -107,6 +106,7 @@ body{
 
 .apresentacao__links__link:hover {
     background-color: var(--cor-hover);
+    transform: scale(1.05);
 }
 
 .container {
