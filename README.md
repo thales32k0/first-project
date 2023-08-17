@@ -1,6 +1,6 @@
  # 📖 Portifólio // Portifolio
 <p align:"center">
-[Badget]https://img.shields.io/badge/Under-Development-blue
+![Badget]https://img.shields.io/badge/Under-Development-blue
 </p>  
 
 This was my first project made with HTML and CSS, in the future I intend to improve it,
