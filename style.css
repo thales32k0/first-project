@@ -102,7 +102,6 @@ body{
     text-decoration: none;
     color: var(--cor-secundaria);
     font-family: var(--fonte-secundaria);
-    transform: scale(1.05);
 }
 
 .apresentacao__links__link:hover {
@@ -119,17 +118,6 @@ body{
     padding-bottom: 10%;
     padding-left: 0%;
 }
-
-.titulo_calculadora {
-    padding-bottom: 0%;
-}
-
-.calculadora {
-    padding-bottom: 50%;
-    padding-left: 10%;
-    width: 70%;
-}
-
 
 .rodape {
     padding: 24px;
