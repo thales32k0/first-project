@@ -1,5 +1,5 @@
 # 📖 Portifólio // Portifolio
-<p align:center<p>
+<p align=:"center">
 ## 🚧Under Development🚧
 </p>  
 
