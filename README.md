@@ -1,7 +1,6 @@
  # 📖 Portifólio // Portifolio
-<p align:"center">
-![Static Badge](https://img.shields.io/badge/Under-Development-orange)
-</p>  
+![Static Badge](https://img.shields.io/badge/Status-Under%20Development-orange)
+
 
 This was my first project made with HTML and CSS, in the future I intend to improve it,
   so that it actually becomes my presentation portfolio.
