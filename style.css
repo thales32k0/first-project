@@ -102,11 +102,11 @@ body{
     text-decoration: none;
     color: var(--cor-secundaria);
     font-family: var(--fonte-secundaria);
+    transform: scale(1.05);
 }
 
 .apresentacao__links__link:hover {
     background-color: var(--cor-hover);
-    transform: scale(1.05);
 }
 
 .container {
