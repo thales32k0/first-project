@@ -1,5 +1,8 @@
  # 📖 Portifólio // Portifolio
-![Static Badge](https://img.shields.io/badge/Status-Under%20Development-orange)
+ <p align="center">
+  <img src="(https://img.shields.io/badge/Status-Under%20Development-orange)" alt="Static Badge">
+</p>
+
 
 
 This was my first project made with HTML and CSS, in the future I intend to improve it,
