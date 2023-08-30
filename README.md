@@ -1,4 +1,4 @@
- # 📖 Portifólio // Portifolio
+ # 📖 Portifolio
  <p align="center">
   <img src="https://img.shields.io/badge/Status-Under%20Development-orange" alt="Static Badge">
 </p>
