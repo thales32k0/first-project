@@ -16,4 +16,4 @@ This was my first project made with HTML and CSS, in the future I intend to impr
 `Functionalities 1` : Introduce myself, show some facts about me and my social media // Me apresentar, mostrar alguns fatos sobre mim e minhas redes sociais. 
 
 # Developer
-[<img loading="lazy" src="https://avatars.githubusercontent.com/u/89024257?v=4" width=115><br><sub>Thales Eduardo Pedro</sub>](https://github.com/thales32k0)]
+[<img loading="lazy" src="https://avatars.githubusercontent.com/u/89024257?v=4" width=115><br><sub>Thales Eduardo Pedro</sub>](https://github.com/thales32k0)
